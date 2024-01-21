@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Estonia&family=Tangerine:wght@400;700&display=swap");
+
+body {
+  .name {
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(59, 2, 2);
+  }
+
+  img {
+    border-radius: 30px;
+  }
+  .table {
+    background-color:rgb(245, 225, 208);
+  }
+
+  .h4{
+    color:rgb(74, 74, 74);
+  }
+  .header{
+    background-color:rgb(235, 228, 221);
+  }
+
+}
